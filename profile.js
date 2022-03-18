@@ -15,4 +15,4 @@ let favPlaceBtn = document.querySelector('#place');
 let favRit = document.querySelector('#ritual');
 favRit.addEventListener('click', function(e){
     alert('EXERCISE')
-})
+})    

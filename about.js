@@ -18,4 +18,4 @@ let img = document.querySelector('img');
 	img.addEventListener('mouseover', function(e){
 		alert('Give the user a compliment!')
 })
-	
+	 
